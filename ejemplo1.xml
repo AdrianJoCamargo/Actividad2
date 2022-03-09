@@ -1,0 +1,132 @@
+<?xml version="2.0.1" encoding="UTF-8"?>
+<Armamento>
+    <Armadura>
+        <Cascos>
+            <CascoC>Casco de cuero
+                <duracionCC>55</duracionCC>
+                <resistenciaCC>0.5</resistenciaCC>
+            </CascoC>
+            <CascoO>Casco de oro
+                <duracionCO>77</duracionCO>
+                <resistenciaCO>1</resistenciaCO>
+            </CascoO>
+            <CascoH>Casco de hierro
+                <duracionCH>164</duracionCH>
+                <resistenciaCH>1</resistenciaCH>
+            </CascoH>
+            <CascoD>Casco de diamante
+                <duracionCD>363</duracionCD>
+                <resistenciaCD>1.5</resistenciaCD>
+            </CascoD>
+            <CascoI>Casco de inframundita
+                <duracionCI>406</duracionCI>
+                <resistenciaCI>1.5</resistenciaCI>
+            </CascoI>
+        </Cascos>
+        <Petos>
+            <PetoC>Pechera de cuero
+                <duracionPC>80</duracionPC>
+                <resistenciaPC>1.5</resistenciaPC>
+            </PetoC>
+            <PetoO>Pechera de oro
+                <duracionPO>112</duracionPO>
+                <resistenciaPO>2.5</resistenciaPO>
+            </PetoO>
+            <PetoH>Pechera de hierro
+                <duracionPH>240</duracionPH>
+                <resistenciaPH>3</resistenciaPH>
+            </PetoH>
+            <PetoD>Pechera de diamante
+                <duracionPD>528</duracionPD>
+                <resistenciaPD>4</resistenciaPD>
+            </PetoD>
+            <PetoI>Pechera de inframundita
+                <duracionPI>591</duracionPI>
+                <resistenciaPI>4</resistenciaPI>
+            </PetoI>
+        </Petos>
+        <Pantalones>
+            <PantalonC>Pantalon de cuero
+                <duracionPTC>75</duracionPTC>
+                <resistenciaPTC>1</resistenciaPTC>
+            </PantalonC>
+            <PantalonO>Pantalon de oro
+                <duracionPTO>105</duracionPTO>
+                <resistenciaPTO>1.5</resistenciaPTO>
+            </PantalonO>
+            <PantalonH>Pantalon de hierro
+                <duracionPTH>225</duracionPTH>
+                <resistenciaPTH>2.5</resistenciaPTH>
+            </PantalonH>
+            <PantalonD>Pantalon de diamante
+                <duracionPTD>495</duracionPTD>
+                <resistenciaPTD>3</resistenciaPTD>
+            </PantalonD>
+            <PantalonI>Pantalon de inframundita
+                <duracionPTI>554</duracionPTI>
+                <resistenciaPTI>3</resistenciaPTI>
+            </PantalonI>
+        </Pantalones>
+        <Botas>
+            <BotaC>Botas de cuero
+                <duracionBC>65</duracionBC>
+                <resistenciaBC>0.5</resistenciaBC>
+            </BotaC>
+            <BotaO>Botas de oro
+                <duracionBO>91</duracionBO>
+                <resistenciaBO>0.5</resistenciaBO>
+            </BotaO>
+            <BotaH>Botas de hierro
+                <duracionBH>195</duracionBH>
+                <resistenciaBH>1</resistenciaBH>
+            </BotaH>
+            <BotaD>Botas de diamante
+                <duracionBD>429</duracionBD>
+                <resistenciaBD>1.5</resistenciaBD>
+            </BotaD>
+            <BotaI>Botas de inframundita
+                <duracionBI>480</duracionBI>
+                <resistenciaBI>1.5</resistenciaBI>
+            </BotaI>
+        </Botas>
+    </Armadura>
+    
+    <Armas>
+        <Espadas>
+            <EspadaM>Espada de madera
+                <duracionEM>59</duracionEM>
+                <dañoEM>4</dañoEM>
+            </EspadaM>
+            <EspadaO>Espada de oro
+                <duracionEO>32</duracionEO>
+                <dañoEO>4</dañoEO>
+            </EspadaO>
+            <EspadaP>Espada de piedra
+                <duracionEP>131</duracionEP>
+                <dañoEP>5</dañoEP>
+            </EspadaP>
+            <EspadaH>Espada de hierro
+                <duracionEH>250</duracionEH>
+                <dañoEH>6</dañoEH>
+            </EspadaH>
+            <EspadaD>Espada de diamante
+                <duracionED>1561</duracionED>
+                <dañoED>7</dañoED>
+            </EspadaD>
+            <EspadaI>Espada de inframundita
+                <duracionEI>2031</duracionEI>
+                <dañoEI>8</dañoEI>
+            </EspadaI>
+        </Espadas>
+        <Arcos>
+            <Arco>
+                <duracionAR>384</duracionAR>
+                <Cargas>
+                    <Carga1 daño="1">menos de un segundo</Carga1>
+                    <Carga2 daño="9">Un segundo</Carga2>
+                    <Carga3 daño="10">Tiempo maximo</Carga3>
+                </Cargas>
+            </Arco>
+        </Arcos>
+    </Armas>
+</Armamento>
